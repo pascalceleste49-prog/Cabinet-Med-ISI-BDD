@@ -1,0 +1,25 @@
+# Fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers temporaires Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Dossiers Visual Studio Code
+.vscode/
+
+# Dossiers JetBrains (IntelliJ, DataGrip, etc.)
+.idea/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Cache Python (si utilisé)
+__pycache__/
+*.pyc
